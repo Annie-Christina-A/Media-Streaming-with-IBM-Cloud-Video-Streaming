@@ -1,6 +1,6 @@
 # CAD_Phase wise project submission
 
-GitHub link: 
+GitHub link: https://github.com/Annie-Christina-A/Media-Streaming-with-IBM-Cloud-Video-Streaming.git
 
 IBM Cloud Video Streaming provides a platform that allows you to create a virtual cinema for media streaming. Here are step-by-step instructions on how to access and use the virtual cinema platform with IBM Cloud Video Streaming:
 
